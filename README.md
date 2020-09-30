@@ -1,5 +1,5 @@
 # sea-ice-extent
-Exploring daily extent of ice in the world
+Exploring daily extent of ice in different parts of the world
 
 ## Good Animated plot:
 
